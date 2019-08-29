@@ -2,7 +2,7 @@
 FROM openjdk:8-alpine
 
 # File Author / Maintainer
-MAINTAINER Jorge Acetozi
+MAINTAINER Rients van Buren
 
 # Define default environment variables
 ENV NOTEPAD_HOME=/opt/notepad
