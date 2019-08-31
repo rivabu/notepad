@@ -1,4 +1,4 @@
-# Notepad: Simple Spring Boot App
+# Notepad: Simple Spring Boot App 
 
 This simple application is used for demo purposes. It exposes the `actuator` endpoints as well as the `/notes` endpoint, which creates a note when it gets a `POST` request.
 
